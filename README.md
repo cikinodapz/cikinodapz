@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love solving complex problems and turning raw data into meaningful insights!  
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cikinodapz)](https://github.com/cikinodapz/github-readme-stats)
 <!---
 cikinodapz/cikinodapz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
