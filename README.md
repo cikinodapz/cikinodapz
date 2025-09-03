@@ -12,23 +12,39 @@
   - 📧 Email: daffaagustiansaadi1803@gmail.com  
   - 🔗 LinkedIn: [Daffa Agustian Saadi](https://www.linkedin.com/in/daffa-agustian-61782224b/)  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I love solving complex problems and turning raw data into meaningful insights!  
+- ⚡ Fun fact: I believe in grit and growth — aiming to be second to none  
+- 🤝 I’m currently open to **collaborations in computer science competitions, freelance projects, or agency-based work**.  
 
-
-<div align="center">📊 GitHub Analytics</div>
 <div align="center">
+  <!-- 📊 GitHub Analytics -->
+  <h3>📊 GitHub Analytics</h3>
+  <div>
+    <a href="https://github.com/cikinodapz">
+      <img 
+        height="200" 
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=cikinodapz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&custom_title=Daffa%27s%20GitHub%20Stats" 
+        alt="GitHub Stats"
+      />
+    </a>
+    <a href="https://github.com/cikinodapz">
+      <img 
+        height="200" 
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cikinodapz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages" 
+        alt="Top Languages"
+      />
+    </a>
+  </div>
+  <!-- 🔥 Contribution Streak -->
+  <h3>🔥 Contribution Streak</h3>
   <a href="https://github.com/cikinodapz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cikinodapz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  </a>
-  <a href="https://github.com/cikinodapz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cikinodapz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+    <img 
+      height="200" 
+      src="https://streak-stats.demolab.com?user=cikinodapz&theme=tokyonight&hide_border=true&stroke=0000&background=1A1B27&ring=70A5FD&fire=70A5FD&currStreakLabel=70A5FD" 
+      alt="GitHub Streak"
+    />
   </a>
 </div>
-<div align="center">
-  <a href="https://github.com/cikinodapz">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cikinodapz&theme=tokyonight&hide_border=true" alt="cikinodapz's streak"/>
-  </a>
-</div>
+
 
 
 <div align="center">🛠️ Skills & Technologies</div>
@@ -72,6 +88,9 @@
   </p>
 </details>
 
+### 🤝 Collaboration Opportunities
+I’m currently open to **collaborations in computer science competitions, freelance projects, or agency-based work**.  
+If you’re interested in working together, feel free to reach out via [email](mailto:daffaagustiansaadi1803@gmail.com) or [LinkedIn](https://www.linkedin.com/in/daffa-agustian-61782224b/).
 
 
 
