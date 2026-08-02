@@ -44,6 +44,7 @@ Information Systems graduate with hands-on experience in building and deploying 
 - Software Engineer | Directorate of Information Technology
 - Full Stack Developer | Balai Monitor Spektrum Frekuensi Radio
 - Backend Developer | Statistics Indonesia (BPS)
+- Data Analyst | Career Development Center Andalas University
 - R&D Coordinator & Lab Assistant | Data & Business Intelligence Lab
 
 ## Contact
