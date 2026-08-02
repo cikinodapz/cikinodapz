@@ -1,100 +1,53 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E97F7&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there!+I'm+Daffa+Agustian+S;Data+Science+%26+Web+Development;Building+Stuff;Building+cross-platform+experiences" alt="Typing SVG" />
-  </a>
-</div>
+# Daffa Agustian Saadi
+Software Engineer | Full-Stack Developer
 
-- 👋 Hi, I’m @cikinodapz  
-- 👀 I’m interested in **Data Science, Data Engineering, Data Analytics, and Web Development**  
-- 🌱 I’m currently learning **Multiplatform Development (Kotlin, Flutter, React Native)**  
-- 💞️ I’m looking to collaborate on **data-driven projects, web applications, and cross-platform apps**  
-- 📫 How to reach me:  
-  - 📧 Email: daffaagustiansaadi1803@gmail.com  
-  - 🔗 LinkedIn: [Daffa Agustian Saadi](https://www.linkedin.com/in/daffa-agustian-61782224b/)  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I believe in grit and growth — aiming to be second to none  
-- 🤝 I’m currently open to **collaborations in computer science competitions, freelance projects, or agency-based work**.  
-
-<div align="center">
-  <!-- 📊 GitHub Analytics -->
-  <h3>📊 GitHub Analytics</h3>
-  <div>
-    <a href="https://github.com/cikinodapz">
-      <img 
-        height="200" 
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=cikinodapz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&custom_title=Daffa%27s%20GitHub%20Stats" 
-        alt="GitHub Stats"
-      />
-    </a>
-    <a href="https://github.com/cikinodapz">
-      <img 
-        height="200" 
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cikinodapz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages" 
-        alt="Top Languages"
-      />
-    </a>
-  </div>
-  <!-- 🔥 Contribution Streak -->
-  <h3>🔥 Contribution Streak</h3>
-  <a href="https://github.com/cikinodapz">
-    <img 
-      height="200" 
-      src="https://streak-stats.demolab.com?user=cikinodapz&theme=tokyonight&hide_border=true&stroke=0000&background=1A1B27&ring=70A5FD&fire=70A5FD&currStreakLabel=70A5FD" 
-      alt="GitHub Streak"
-    />
-  </a>
-</div>
+Information Systems graduate with hands-on experience in building and deploying full-stack applications. Proficient in designing RESTful APIs, managing relational databases, and developing robust systems using Next.js, Node.js, Express.js, and Laravel. Proven track record in leading technical teams, winning national-level hackathons, and managing the full software development lifecycle.
 
 
+## Technical Skills
 
-<div align="center">🛠️ Skills & Technologies</div>
-<details open>
-  <summary><b>Languages & Frameworks</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  </p>
-</details>
-<details open>
-  <summary><b>Backend & Databases</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  </p>
-</details>
-<details open>
-  <summary><b>Data Science & Analytics</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
-    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  </p>
-</details>
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### 🤝 Collaboration Opportunities
-I’m currently open to **collaborations in computer science competitions, freelance projects, or agency-based work**.  
-If you’re interested in working together, feel free to reach out via [email](mailto:daffaagustiansaadi1803@gmail.com) or [LinkedIn](https://www.linkedin.com/in/daffa-agustian-61782224b/).
+### Frontend & Backend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 
+## Professional Experience
 
-<!---
-cikinodapz/cikinodapz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Software Engineer | Directorate of Information Technology
+- Full Stack Developer | Balai Monitor Spektrum Frekuensi Radio
+- Backend Developer | Statistics Indonesia (BPS)
+- R&D Coordinator & Lab Assistant | Data & Business Intelligence Lab
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/daffa-agustian-saadi-61782224b](https://www.linkedin.com/in/daffa-agustian-saadi-61782224b/)
+- Portfolio: [cikinodapz.dev](https://cikinodapz.dev)
+- Email: daffaagustiansaadi1803@gmail.com
