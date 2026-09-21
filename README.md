@@ -1,5 +1,5 @@
 # Daffa Agustian Saadi
-Software Engineer | Full-Stack Developer
+AI & Software Engineer
 
 Information Systems graduate with hands-on experience in building and deploying full-stack applications. Proficient in designing RESTful APIs, managing relational databases, and developing robust systems using Next.js, Node.js, Express.js, and Laravel. Proven track record in leading technical teams, winning national-level hackathons, and managing the full software development lifecycle.
 
